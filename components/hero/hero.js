@@ -15,7 +15,7 @@ const Hero = () => {
               <div className="flex justify-start lg:w-0 lg:flex-1">
                 <a href="/">
                   <span className="sr-only">Workflow</span>
-                  <img className="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="" />
+                  <img className="h-8 w-auto sm:h-10" src="/images/lane_associates_logo.png" alt="" />
                 </a>
               </div>
               <div className="-mr-2 -my-2 md:hidden">
@@ -301,7 +301,7 @@ const Hero = () => {
               <div className="pt-5 pb-6 px-5">
                 <div className="flex items-center justify-between">
                   <div>
-                    <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="Workflow" />
+                    <img className="h-8 w-auto" src="/images/lane_associates_logo.png" alt="" />
                   </div>
                   <div className="-mr-2">
                     <button type="button" className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
