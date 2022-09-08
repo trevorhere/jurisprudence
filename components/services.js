@@ -1,6 +1,6 @@
 export default function Component(props){
     return (
-      <div className="py-12 bg-white">
+      <div id="services" className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <h2 className="text-base text-red-600 font-semibold tracking-wide uppercase">Services</h2>
@@ -28,7 +28,9 @@ export default function Component(props){
                   Defense Medical Exam 
                   </dt>
                   <dd className="mt-2 text-base text-gray-500">
-                    We travel to any defendant, plantiff or relevant parties to conduct robust defense medical exams.
+                  We attend all DME/IMEs including Neuro-Psych DMEs. We are the independent, unbiased
+observer; we provide an audio recording and a thorough report as the eyes and ears for
+plaintiff counsel.
                   </dd>
                 </div>
               </div>
@@ -47,7 +49,8 @@ export default function Component(props){
                   Personal Injury
                   </dt>
                   <dd className="mt-2 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                  Whether your client sustains a slip and fall or is involved in a motor vehicle accident we can
+assist with liability, damages, and causation. We know what care should be provided.
                   </dd>
                 </div>
               </div>

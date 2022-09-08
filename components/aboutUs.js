@@ -16,12 +16,17 @@ export default function Component(props){
     //     }
     //     ```
     //   */}
-      <div className="bg-white">
+      <div id="about_us" className="bg-white">
         <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">About Us</h2>
-              <p className="text-xl text-gray-500">Nulla quam felis, enim faucibus proin velit, ornare id pretium. Augue ultrices sed arcu condimentum vestibulum suspendisse. Volutpat eu faucibus vivamus eget bibendum cras.</p>
+              <p className="text-xl text-gray-500">
+                Since becoming a legal nurse in 2007, and with over 28
+years of experience, including 10 years in Risk Services, Ms. Lane has
+personally opened 450+ cases as a corporate legal nurse. She knows defense
+strategy and understands that process.
+                </p>
             </div>
             <div className="lg:col-span-2">
               <ul className="space-y-12 sm:divide-y sm:divide-gray-200 sm:space-y-0 sm:-mt-8 lg:gap-x-8 lg:space-y-0">
