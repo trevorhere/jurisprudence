@@ -69,7 +69,7 @@ assist with liability, damages, and causation. We know what care should be provi
                    Medical Malpractice 
                   </dt>
                   <dd className="mt-2 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                    Our experience includes: failure to rescue, failure to return to the OR, foreign body retention, unnecessary surgery, hypothermic babies, intrathecal medication errors among other various matters, and physician arrival time among other various matters. 
                   </dd>
                 </div>
               </div>
@@ -85,10 +85,10 @@ assist with liability, damages, and causation. We know what care should be provi
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-medium text-gray-900">
-                    General / Premesis Liability
+                    Medical Care Chronology 
                   </dt>
                   <dd className="mt-2 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                  We establish chronologies which provide key insights and medical context to your case. Our chronologies are built from thorough examinations and assements of patient care history including medical history and risk factors. 
                   </dd>
                 </div>
               </div>
