@@ -1,21 +1,5 @@
 export default function Component(props){
     return (
-    //   {/*
-    //     This example requires Tailwind CSS v2.0+ 
-        
-    //     This example requires some changes to your config:
-        
-    //     ```
-    //     // tailwind.config.js
-    //     module.exports = {
-    //       // ...
-    //       plugins: [
-    //         // ...
-    //         require('@tailwindcss/forms'),
-    //       ]
-    //     }
-    //     ```
-    //   */}
       <div id="contact" className="relative bg-white">
         <div className="absolute inset-0">
           <div className="absolute inset-y-0 left-0 w-1/2 bg-gray-50"></div>

@@ -44,11 +44,8 @@ const Hero = () => {
       
               </nav>
               <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
-                <a href="/" className="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900">
-                  Sign in
-                </a>
-                <a href="/" className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700">
-                  Sign up
+                <a href="#contact" className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-red-600 hover:bg-red-700">
+                  Schedule A Call Today 
                 </a>
               </div>
             </div>
@@ -197,6 +194,7 @@ const Hero = () => {
           <div className="mx-auto max-w-7xl w-full pt-16 pb-20 text-center lg:py-48 lg:text-left">
             <div className="px-4 lg:w-1/2 sm:px-8 xl:pr-16">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl">
+                <span className="block text-red-600 xl:inline">America's Legal Nurse™</span><br/>
                 <span className="block xl:inline">Lane & Associates</span>
                 <span className="block text-red-600 xl:inline"> Legal Nurse Consultants</span>
               </h1>
