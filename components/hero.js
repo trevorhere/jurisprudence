@@ -55,7 +55,7 @@ const Hero = () => {
           for legal experts.
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-          America's Legal Nurse™
+          America&apos;s Legal Nurse™
           {/* A coordinated team of legal nurse consultants working as your medical subject matter experts. */}
         </p>
       </Container>
