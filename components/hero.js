@@ -40,6 +40,9 @@ const Hero = () => {
               </a>
             </nav>
             <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0  font-extrabold text-xl">
+              <span className="text-black pr-32 font-medium tracking-tight text-slate-900 ">
+                America&apos;s Legal Nurse™
+              </span>
               <span className="text-black pr-2">Call Today:</span>
               <span className="text-red-500">+1 559-816-3948</span>
             </div>
@@ -54,7 +57,7 @@ const Hero = () => {
           </span>{" "}
           for legal experts.
         </h1>
-        <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
+        <p className=" sm:hidden mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
           America&apos;s Legal Nurse™
           {/* A coordinated team of legal nurse consultants working as your medical subject matter experts. */}
         </p>

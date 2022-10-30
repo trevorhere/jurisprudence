@@ -39,11 +39,11 @@ export default function Component(props) {
                   {/* Image */}
                   <div className="aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
                     <Image
-                      src="/images/valerie_lane.jpg"
-                      alt="Picture of the author"
+                      src="/images/valerie_lane.png"
+                      alt="Picture of Valerie Lane"
                       className="object-cover shadow-lg rounded-lg"
                       width={250}
-                      height={250}
+                      height={350}
                     />
                   </div>
                   <div className="sm:col-span-2">

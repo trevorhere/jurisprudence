@@ -113,9 +113,8 @@ export default function Component(props) {
                 <dd className="mt-2 text-base text-gray-500">
                   Our experience includes: failure to rescue, failure to return
                   to the OR, foreign body retention, unnecessary surgery,
-                  hypothermic babies, intrathecal medication errors among other
-                  various matters, and physician arrival time among other
-                  various matters.
+                  hypothermic babies, intrathecal medication errors, and
+                  physician arrival time among other various matters.
                 </dd>
               </div>
             </div>
