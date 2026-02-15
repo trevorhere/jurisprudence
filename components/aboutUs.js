@@ -39,7 +39,7 @@ export default function Component(props) {
                   {/* Image */}
                   <div className="aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
                     <Image
-                      src="/images/valerie_lane.png"
+                      src="/images/valerie_lane_new.jpg"
                       alt="Picture of Valerie Lane"
                       className="object-cover shadow-lg rounded-lg"
                       width={250}
@@ -50,7 +50,7 @@ export default function Component(props) {
                     <div className="space-y-4">
                       <div className="text-lg leading-6 font-medium space-y-1">
                         <h3>Valerie Lane</h3>
-                        <p className="text-red-600">Founder / BSN, RN, CLNC</p>
+                        <p className="text-burgundy">Founder / BSN, RN, CLNC</p>
                       </div>
                       <div className="text-lg">
                         {/* <p className="text-gray-500">Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.</p> */}

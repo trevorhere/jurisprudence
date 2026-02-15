@@ -9,7 +9,7 @@ const Hero = () => {
   const [showMore, setShowMore] = useState(false);
 
   return (
-    <div className="relative bg-gray-50 border-b-4 border-red-500">
+    <div className="relative bg-gray-50 border-b-4 border-burgundy">
       <div className="relative bg-white shadow">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="hidden md:flex justify-between items-center py-6 md:justify-start md:space-x-10">
@@ -44,7 +44,7 @@ const Hero = () => {
                 America&apos;s Legal Nurse™
               </span>
               <span className="text-black pr-2">Call Today:</span>
-              <span className="text-red-500">+1 559-816-3948</span>
+              <span className="text-burgundy">+1 559-816-3948</span>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@ const Hero = () => {
       <Container className="pt-20 pb-16 text-center lg:pt-32 ">
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
           Lane & Associates{" "}
-          <span className="relative md:whitespace-nowrap text-red-600">
+          <span className="relative md:whitespace-nowrap text-burgundy">
             <span className="relative">Legal Nurse Consultants</span>
           </span>{" "}
           for legal experts.

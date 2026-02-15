@@ -3,7 +3,7 @@ export default function Component(props) {
     <div id="services" className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
-          <h2 className="text-base text-red-600 font-semibold tracking-wide uppercase">
+          <h2 className="text-xl text-burgundy font-semibold tracking-wide uppercase">
             Services
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
@@ -20,7 +20,7 @@ export default function Component(props) {
           <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
             <div className="flex">
               <div className="flex-shrink-0">
-                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-red-500 text-white">
+                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-burgundy text-white">
                   {/* Heroicon name: globe-alt */}
                   <svg
                     className="h-6 w-6"
@@ -54,7 +54,7 @@ export default function Component(props) {
 
             <div className="flex">
               <div className="flex-shrink-0">
-                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-red-500 text-white">
+                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-burgundy text-white">
                   {/* Heroicon name: scale */}
                   <svg
                     className="h-6 w-6"
@@ -87,7 +87,7 @@ export default function Component(props) {
 
             <div className="flex">
               <div className="flex-shrink-0">
-                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-red-500 text-white">
+                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-burgundy text-white">
                   {/* Heroicon name: lightning-bolt */}
                   <svg
                     className="h-6 w-6"
@@ -121,7 +121,7 @@ export default function Component(props) {
 
             <div className="flex">
               <div className="flex-shrink-0">
-                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-red-500 text-white">
+                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-burgundy text-white">
                   {/* Heroicon name: annotation */}
                   <svg
                     className="h-6 w-6"
@@ -149,6 +149,39 @@ export default function Component(props) {
                   medical context to your case. Our chronologies are built from
                   thorough examinations and assements of patient care history
                   including medical history and risk factors.
+                </dd>
+              </div>
+            </div>
+
+            <div className="flex">
+              <div className="flex-shrink-0">
+                <div className="flex items-center justify-center h-12 w-12 rounded-md bg-burgundy text-white">
+                  {/* Heroicon name: clipboard-check */}
+                  <svg
+                    className="h-6 w-6"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    aria-hidden="true"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                    />
+                  </svg>
+                </div>
+              </div>
+              <div className="ml-4">
+                <dt className="text-lg leading-6 font-medium text-gray-900">
+                  Durable Medical Equipment (DME)
+                </dt>
+                <dd className="mt-2 text-base text-gray-500">
+                  We provide expert consultation on durable medical equipment matters, 
+                  ensuring proper assessment and documentation of medical equipment needs 
+                  and compliance for legal proceedings.
                 </dd>
               </div>
             </div>
